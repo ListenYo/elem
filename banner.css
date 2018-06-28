@@ -1,0 +1,27 @@
+
+*{
+	margin: 0;
+	padding: 0;
+}
+.oul{
+	display: flex;
+	width: 100%;
+	flex-wrap: wrap;
+	justify-content: center;
+    align-items: center
+
+}
+.oul li{
+	list-style-type: none;
+	width: 20%;
+	text-align: center;
+}
+.oul li img{
+	display: inline;
+	
+}
+.oul li p{
+	
+	text-align: center;
+	
+}
